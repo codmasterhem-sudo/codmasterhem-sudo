@@ -1,16 +1,16 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Hemant+Kumar;Python+Developer;Cybersecurity+Learner;Linux+Enthusiast;AI+Builder;Open+Source+Explorer"/>
+k<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Hemant+Kumar;Python+Developer;Class+11+Student;Learning+Cybersecurity;Building+Nexyron+Security;Exploring+AI+and+Linux"/>
 </p>
 
-<h1 align="center">🖥️ hemant@2017-legend:~$</h1>
+<h1 align="center">hemant@2017-legend:~$</h1>
 
 <p align="center">
-Building security tools, AI experiments and open-source projects.
+Python developer interested in cybersecurity, AI, and Linux.
 </p>
 
 ---
 
-## 👤 whoami
+## 👤 About Me
 
 ```bash
 $ cat about.txt
@@ -18,33 +18,52 @@ $ cat about.txt
 Name:
 Hemant Kumar
 
-Role:
-Student Developer
+Status:
+Class 11 Student
 
 Interests:
+- Python development
 - Cybersecurity
-- Python Development
 - Artificial Intelligence
-- Linux Systems
-- Open Source
+- Linux systems
+- Open source projects
 ```
 
 ---
 
-## 🚀 Projects
+## 🚧 Currently Building
 
-### 🛡️ Nexyron Security
+```bash
+$ cat current_projects.txt
+
+Nexyron Security
+→ Security application prototype
+
+MoonInterface
+→ Gesture based lunar interface experiment
+
+Tux AI
+→ Local AI assistant experiments
+```
+
+---
+
+# 🛡️ Nexyron Security
 
 ```bash
 $ cat nexyron.txt
 
-AI-assisted security platform.
+A security tool prototype.
 
-Goal:
-Create a lightweight security application
-with threat analysis and file scanning.
+Goals:
 
-Stack:
+- File scanning
+- Threat analysis
+- Security insights
+- Clean user interface
+
+Technologies:
+
 Python
 HTML5
 CSS
@@ -54,19 +73,14 @@ Git
 
 ---
 
-### 🌙 MoonInterface
+# 🌙 MoonInterface
 
 ```bash
 $ cat mooninterface.txt
 
-Gesture controlled lunar interface.
+Gesture controlled lunar visualization project.
 
-Features:
-✓ Hand tracking
-✓ Interactive visualization
-✓ Real-time controls
-
-Built with:
+Built using:
 
 Python
 OpenCV
@@ -77,39 +91,39 @@ WebSockets
 
 ---
 
-### 🤖 Tux AI
+# 🤖 Tux AI
 
 ```bash
-$ tux-ai --status
+$ tux-ai --info
 
-Local AI assistant project.
+Local AI experiments.
 
 Focus:
 
-✓ Local models
-✓ Privacy focused AI
-✓ Offline experiments
+- Running local models
+- Learning AI systems
+- Privacy focused tools
 ```
 
 ---
 
-### 🔧 Port Mortem
+# 🔧 Port Mortem
 
 ```bash
 $ cat portmortem.txt
 
-Python implementation project.
+Python engineering project.
 
 Focus:
 
-✓ Parser development
-✓ Testing
-✓ Modular architecture
+- YAML parsing
+- Code structure
+- Testing
 ```
 
 ---
 
-## 🐧 System
+## 🐧 My Setup
 
 ```bash
 $ neofetch
@@ -129,7 +143,7 @@ NVIDIA MX150
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
 <p align="center">
 
@@ -144,48 +158,42 @@ NVIDIA MX150
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codmasterhem-sudo&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codmasterhem-sudo&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📚 Learning Log
+## 📚 Learning
 
 ```bash
 $ tail learning.log
 
 Currently learning:
 
-> Advanced Python
 > Cybersecurity
-> Web Development
-> AI Engineering
-> System Design
+> Python development
+> Web technologies
+> AI engineering
+> System design
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codmasterhem-sudo&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codmasterhem-sudo&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## ⚡ Terminal
 
 ```bash
-$ echo "Build. Break. Debug. Learn."
+$ echo "Build. Learn. Improve."
 
 Build.
-Break.
-Debug.
 Learn.
-Repeat.
+Improve.
 ```
 
 ---
