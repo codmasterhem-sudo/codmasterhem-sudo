@@ -1,44 +1,30 @@
-# 🖥️ hemant@security-lab:~$
+# 🖥️ hemant@2017-legend:~$
 
 ```bash
 $ whoami
 
 Hemant Kumar
 
-$ cat profile.txt
+$ cat about.txt
 
-Cybersecurity learner
 Python developer
-Linux enthusiast
+Cybersecurity enthusiast
+Linux tinkerer
 AI systems builder
-Open-source explorer
+Open-source learner
 ```
 
 ---
 
-## ⚡ Current Mission
+## 🚀 Current Projects
 
 ```bash
-$ cat mission.log
-
-Building:
-- Security tools
-- AI-powered systems
-- Privacy-focused software
-- Open-source projects
-```
-
----
-
-## 🛠️ Projects
-
-```bash
-$ ls projects/
+$ ls ~/projects/
 
 Nexyron-Security/
 MoonInterface/
 Tux-AI/
-Security-Labs/
+PortMortem/
 ```
 
 ---
@@ -51,16 +37,23 @@ $ cat nexyron.txt
 AI-assisted security platform
 
 Goal:
-Detect suspicious files,
-analyze threats,
-and provide security insights.
+Create a lightweight security tool
+with file scanning, threat analysis,
+and a polished desktop-like interface.
 
-Stack:
+Built with:
+
 Python
 HTML5
 CSS
 JavaScript
 Git
+```
+
+Status:
+
+```
+Prototype development
 ```
 
 ---
@@ -70,9 +63,15 @@ Git
 ```bash
 $ cat mooninterface.txt
 
-Gesture-controlled lunar visualization interface.
+Gesture-controlled lunar interface.
 
-Built using:
+Features:
+
+- Hand tracking
+- Interactive moon visualization
+- Real-time controls
+
+Technology:
 
 Python
 OpenCV
@@ -86,19 +85,36 @@ WebSockets
 # 🤖 Tux AI
 
 ```bash
-$ tux-ai --info
+$ tux-ai status
 
-Local AI assistant
+Local AI assistant project
 
-Features:
+Focus:
+
 - Local models
-- Privacy focused
-- AI utilities
+- Privacy
+- Offline AI experiments
 ```
 
 ---
 
-## 🐧 System
+# 🔧 Port Mortem
+
+```bash
+$ cat portmortem.txt
+
+Python port of js-yaml.
+
+Achievements:
+
+✓ YAML parser implementation
+✓ Automated tests
+✓ Modular architecture
+```
+
+---
+
+# 🐧 Linux Setup
 
 ```bash
 $ neofetch
@@ -109,69 +125,58 @@ Fedora Linux
 Desktop:
 KDE Plasma
 
-Languages:
-Python
-JavaScript
-HTML/CSS
+Hardware:
+Huawei MateBook D 2017
 
-Tools:
+GPU:
+NVIDIA MX150
+```
+
+---
+
+# 🧰 Tools I Use
+
+```bash
+Python
 Git
 Linux
+OpenCV
+MediaPipe
+FastAPI
+HTML
+CSS
+JavaScript
 Cybersecurity Tools
 ```
 
 ---
 
-## 🔐 Security Journey
-
-```bash
-$ cat skills.txt
-
-Python
-Linux
-Networking
-Web Security
-Git
-AI Development
-Automation
-```
-
----
-
-## 📚 Learning
+# 📚 Learning Log
 
 ```bash
 $ tail learning.log
 
-Currently learning:
+Currently exploring:
 
-> Advanced Python
 > Cybersecurity
-> Data Structures
 > AI Engineering
 > System Design
+> Data Structures
+> Web Development
 ```
 
 ---
 
-## 📡 Find Me
-
-```bash
-$ echo contact
-
-GitHub:
-https://github.com/codmasterhem-sudo
-```
-
----
+## 📡 Philosophy
 
 ```
-██████╗ ███████╗ ██████╗ ██████╗ 
-██╔══██╗██╔════╝██╔════╝██╔═══██╗
-██║  ██║█████╗  ██║     ██║   ██║
-██║  ██║██╔══╝  ██║     ██║   ██║
-██████╔╝███████╗╚██████╗╚██████╔╝
-╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ 
+Build.
+Break.
+Debug.
+Learn.
+Repeat.
 ```
 
-> Building, learning, and experimenting one commit at a time.
+```
+$ echo "One commit at a time."
+```
